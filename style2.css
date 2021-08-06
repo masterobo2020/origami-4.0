@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(0, 183, 255, 0.6);
+}
+h1{
+    color: tomato;
+}
+p{
+    color: green;
+}
+a:hover{
+    font-size: 20px;
+}
+a:visited{
+    color: #ff000055;
+}
+a:link{
+    color: #ff0055ff;
+}
